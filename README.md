@@ -1,12 +1,12 @@
-# SolveSpace-Daily-Engineering [![follow on Twitter](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace+from%3Aapp4soft)
+# SolveSpace Daily Engineering [![follow on Twitter](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace+from%3Aapp4soft)
 
-This is `.slvs` files repository of [`@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [*SolveSpace*](https://solvespace.com) — FLOSS 2D/3D CAD &amp; CAE.
+This is repository of [`@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [*SolveSpace*](https://solvespace.com) — FLOSS 2D/3D CAD &amp; CAE.
 
-> For use those files you should use latest nightly version of *SolveSpace*!
+> For use those `.slvs` files you should use latest nightly version of *SolveSpace* `3.x`!
 > 
-> - [Nightly builds for Linux](https://notesalexp.org) (PPA for Debian/Ubuntu)
+> - [Nightly builds for Linux](https://notesalexp.org) (PPA for Debian/Ubuntu) — [Support this PPA on Patreon! ![Support `notesalexp`'s PPA](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fnotesalexp&style=for-the-badge)](https://www.patreon.com/notesalexp)
 > - [Nightly builds for Windows](https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts) (AppVeyor CI)
-> - Or build it from [source](https://github.com/solvespace/solvespace)
+> - Or build it from [latest sources](https://github.com/solvespace/solvespace).
 
 # LICENSE
 
