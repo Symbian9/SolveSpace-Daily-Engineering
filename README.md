@@ -4,7 +4,7 @@ This is repository of [`@app4soft`](https://twitter.com/app4soft)'s engineering 
 
 > For use those `.slvs` files you should use latest nightly version of *SolveSpace* `3.x`!
 > 
-> - [Nightly builds for Linux](https://notesalexp.org) (PPA for Debian/Ubuntu) — [Support this PPA on Patreon! ![Support `notesalexp`'s PPA](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fnotesalexp&style=for-the-badge)](https://www.patreon.com/notesalexp)
+> - [Nightly builds for Linux](https://notesalexp.org) ([@AlexanderP](http://github.com/alexanderp)'s PPA for Debian/Ubuntu) — [Support this PPA on Patreon! ![Support `notesalexp`'s PPA](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fnotesalexp&style=for-the-badge)](https://www.patreon.com/notesalexp)
 > - [Nightly builds for Windows](https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts) (AppVeyor CI)
 > - Or build it from [latest sources](https://github.com/solvespace/solvespace).
 
