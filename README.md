@@ -14,7 +14,7 @@ For use `.slvs` files from this repository you should install latest nightly ver
 
 ## Projects
 
-> **NOTE**: Each project directory include at least *SolveSpace* files (`.slvs`), screenshot with 3-view and exported image with perspective view (`.png`).
+> **NOTE**: Each project directory include at least *SolveSpace* files (`.slvs`), exported image with perspective view  and screenshot with 3-view (`.png`).
 >
 > Some projects may or may not include *STEP* (`.stp`/`.step`), *DXF* and *PDF* files.
 
