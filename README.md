@@ -8,7 +8,7 @@ This is repository of [`@app4soft`](https://twitter.com/app4soft)'s engineering 
 
 | Folder Name | Reference |
 | ---- | ---- |
-| [snowboard](./snowboard/) | Inspired by samples from [BoardCAM](https://github.com/BoardCAM/BoardCAM) - FLOSS snowboard CAD & CAM |
+| [snowboard](snowboard/) | Inspired by samples from [BoardCAM](https://github.com/BoardCAM/BoardCAM) - FLOSS snowboard CAD & CAM |
 
 ## SolveSpace 3.x (.slvs)
 
