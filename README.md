@@ -8,9 +8,11 @@ This is repository of [👷 `@app4soft`](https://twitter.com/app4soft)'s enginee
 
 For use `.slvs` files from this repository you should install latest nightly version of *SolveSpace* `3.x`!
 
-- [Nightly builds for Linux](https://notesalexp.org) ([@AlexanderP](http://github.com/alexanderp)'s PPA for Debian/Ubuntu) — [Support this PPA on Patreon! ![Support `notesalexp`'s PPA](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fnotesalexp&style=for-the-badge)](https://www.patreon.com/notesalexp)
-- [Nightly builds for Windows](https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts) (AppVeyor CI)
-- Or build it from [latest sources](https://github.com/solvespace/solvespace).
+
+- Build it from [latest sources](https://github.com/solvespace/solvespace) [![Support `whitequark`](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fwhitequarkp&style=for-the-badge)](https://www.patreon.com/whitequark)
+  - [Nightly builds for Windows](https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts) (official EXE builds on AppVeyor CI)
+  - [Nightly builds for Linux](https://notesalexp.org) (unofficial [@AlexanderP](http://github.com/alexanderp)'s PPA for Debian/Ubuntu) [![Support `notesalexp`](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fnotesalexp&style=for-the-badge)](https://www.patreon.com/notesalexp)
+  - [Nightly builds for Mac OS](https://github.com/vespakoen/solvespace/releases/tag/3.0-vespakoen) (unofficial [vespakoen](https://github.com/vespakoen)'s DMG builds)
 
 ## Projects
 
