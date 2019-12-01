@@ -43,8 +43,8 @@ There are not so many resources for *SolveSpace* over Internet yet, so here I wo
 
 For any *SolveSpace* related question & support: 
 
-- SolveSpace Forum - http://solvespace.com/forum.pl
-- SolveSpace Issues Tracker - https://github.com/solvespace/solvespace/issues
+- [SolveSpace Forum](http://solvespace.com/forum.pl)
+- [SolveSpace Issues Tracker](https://github.com/solvespace/solvespace/issues)
 
 ## Projects
 
