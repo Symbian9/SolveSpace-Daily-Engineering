@@ -20,7 +20,7 @@ There are not so many resources for *SolveSpace* over Internet yet, so here I wo
 <details>
   <summary>SolveSpace Tutorials & References</summary>
 
-In English:
+*In English:*
 
 - http://solvespace.com
   - http://solvespace.com/features.pl
@@ -31,7 +31,7 @@ In English:
 - https://solvespace.readthedocs.io/en/latest/
 - http://www.farwire.net/SolveSpace-LearningGuide.htm
 
-In Russian:
+*In Russian:*
 
 - https://habr.com/ru/post/324160/
   - https://habr.com/ru/post/324514/
@@ -54,7 +54,7 @@ For any *SolveSpace* related question & support:
 
 | Project / Directory | Preview | Reference |
 | :----: | :----: | ---- |
-| [snowboard](./snowboard) | <img src="./snowboard/snowboard-1-slvs3.png" width="256"> <img src="./snowboard/snowboard-2-slvs3.png" width="256"> | Inspired by samples from [BoardCAM](https://github.com/BoardCAM/BoardCAM) - FLOSS snowboard CAD & CAM |
+| «[snowboard](./snowboard)» | <img src="./snowboard/snowboard-1-slvs3.png" width="256"> <img src="./snowboard/snowboard-2-slvs3.png" width="256"> | Inspired by samples from [*BoardCAM*](https://github.com/BoardCAM/BoardCAM) - FLOSS snowboard CAD & CAM |
 
 ## LICENSE
 
