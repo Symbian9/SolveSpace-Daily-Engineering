@@ -8,11 +8,43 @@ This is repository of [👷 `@app4soft`](https://twitter.com/app4soft)'s enginee
 
 For use `.slvs` files from this repository you should install latest nightly version of *SolveSpace* `3.x`!
 
-
 - Build it from [latest sources](https://github.com/solvespace/solvespace) (maintained by [@whitequark](https://github.com/whitequark)) [![Support `whitequark`](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fwhitequark&style=for-the-badge)](https://www.patreon.com/whitequark)
   - [Nightly builds for Windows](https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts) (official EXE builds on AppVeyor CI)
   - [Nightly builds for Linux](https://notesalexp.org) (unofficial [@AlexanderP](http://github.com/alexanderp)'s PPA for Debian/Ubuntu) [![Support `notesalexp`](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fnotesalexp&style=for-the-badge)](https://www.patreon.com/notesalexp)
   - [Nightly builds for Mac OS](https://github.com/vespakoen/solvespace/releases/tag/3.0-vespakoen) (unofficial [@vespakoen](https://github.com/vespakoen)'s DMG builds)
+
+### SolveSpace Resources
+
+There are not so many resources for *SolveSpace* over Internet yet, so here I would collect most useful links.
+
+<details>
+  <summary>SolveSpace Tutorials & References</summary>
+
+In English:
+
+- http://solvespace.com
+  - http://solvespace.com/features.pl
+  - http://solvespace.com/tutorial.pl
+  - http://solvespace.com/ref.pl
+  - http://solvespace.com/tech.pl
+  - http://solvespace.com/examples.pl
+- https://solvespace.readthedocs.io/en/latest/
+- http://www.farwire.net/SolveSpace-LearningGuide.htm
+
+In Russian:
+
+- https://habr.com/ru/post/324160/
+  - https://habr.com/ru/post/324514/
+  - https://habr.com/ru/post/325770/
+  - https://habr.com/ru/post/335962/
+- http://www.craftingbe.org/CAD/solvespace_rises.html ([mirror](https://crafting.be/2017/08/solvespace-rises/))
+
+</details>
+
+For any *SolveSpace* related question & support: 
+
+- SolveSpace Forum - http://solvespace.com/forum.pl
+- SolveSpace Issues Tracker - https://github.com/solvespace/solvespace/issues
 
 ## Projects
 
