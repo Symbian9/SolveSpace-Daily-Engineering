@@ -2,7 +2,7 @@
 
 > **DONATE Bitcoin** (BTC): `1LoE44kuRsS3cfjyCytnVjn5vGH9F3jyY7`
 
-This is repository of [👷 `@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [![⟂](https://raw.githubusercontent.com/solvespace/solvespace/master/res/freedesktop/solvespace-24x24.png) *SolveSpace*](https://solvespace.com) — FLOSS parametric 2D/3D CAD &amp; CAE.
+[👷 `@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [![⟂](https://raw.githubusercontent.com/solvespace/solvespace/master/res/freedesktop/solvespace-24x24.png) *SolveSpace*](https://solvespace.com) — FLOSS parametric 2D/3D CAD &amp; CAE.
 
 ## SolveSpace 3.x (.slvs)
 
