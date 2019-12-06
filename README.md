@@ -1,8 +1,8 @@
-# SolveSpace Daily Engineering ![`⟂`](https://github.com/solvespace/solvespace/raw/master/res/freedesktop/solvespace-48x48.png) [![follow on Twitter](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace+from%3Aapp4soft)
+# SolveSpace Daily Engineering [![follow on Twitter](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace+from%3Aapp4soft)
 
 > **DONATE Bitcoin** (BTC): `1LoE44kuRsS3cfjyCytnVjn5vGH9F3jyY7`
 
-This is repository of [👷 `@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [*SolveSpace*](https://solvespace.com) — FLOSS parametric 2D/3D CAD &amp; CAE.
+This is repository of [👷 `@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [![⟂](https://raw.githubusercontent.com/solvespace/solvespace/master/res/freedesktop/solvespace-24x24.png) *SolveSpace*](https://solvespace.com) — FLOSS parametric 2D/3D CAD &amp; CAE.
 
 ## SolveSpace 3.x (.slvs)
 
