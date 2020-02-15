@@ -9,7 +9,8 @@
 For use `.slvs` files from this repository you should install latest nightly version of *SolveSpace* `3.x`!
 
 - Build it from [latest sources](https://github.com/solvespace/solvespace) (maintained by [@whitequark](https://github.com/whitequark)) [![Support `whitequark`](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fwhitequark&style=for-the-badge)](https://www.patreon.com/whitequark)
-  - [Nightly builds for Windows](https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts) (official EXE builds on AppVeyor CI)
+  - [Nightly builds for Windows](https://ci.appveyor.com/project/whitequark/solvespace/build/artifacts) (official *EXE* builds on *AppVeyor CI*)
+  - [Nightly builds for Linux](https://snapcraft.io/solvespace) (official *Snap* builds on *Snap Store*)
   - [Nightly builds for Linux](https://notesalexp.org) (unofficial [@AlexanderP](http://github.com/alexanderp)'s PPA for Debian/Ubuntu) [![Support `notesalexp`](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fnotesalexp&style=for-the-badge)](https://www.patreon.com/notesalexp)
   - [Nightly builds for Mac OS](https://github.com/vespakoen/solvespace/releases/tag/3.0-vespakoen) (unofficial [@vespakoen](https://github.com/vespakoen)'s DMG builds)
 
