@@ -1,10 +1,10 @@
-# SolveSpace Daily Engineering [![`[follow on Twitter]`](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace+OR+%23dailysolvespace+from%3Aapp4soft) [![`[watch on YouTube]`](https://img.shields.io/youtube/views/1uZgUpjTg18?style=social&logo=youtube)](https://www.youtube.com/playlist?list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD)
+# SolveSpace Daily Engineering [![`[follow on Twitter]`](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace%20OR%20%23dailysolvespace%20from%3Aapp4soft&f=live) [![`[watch on YouTube]`](https://img.shields.io/youtube/views/1uZgUpjTg18?style=social&logo=youtube)](https://www.youtube.com/watch?v=1uZgUpjTg18&list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD)
 
 [👷 `@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [![⟂](https://raw.githubusercontent.com/solvespace/solvespace/master/res/freedesktop/solvespace-24x24.png) *SolveSpace*](https://solvespace.com) — FLOSS parametric 2D/3D CAD &amp; CAE.
 
 **Subscribe** to my `DailySolveSpace` *playlist on YouTube* 🔔👍💬 https://www.youtube.com/playlist?list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD
 
-## `[ ▶️ ]` [![SolveSpace 3.0 Showcase - Modeling a Technical Piece](https://i.ytimg.com/vi/1uZgUpjTg18/hqdefault.jpg)](https://youtu.be/1uZgUpjTg18)
+## `[ ▶️ ]` [![SolveSpace 3.0 Showcase - Modeling a Technical Piece](https://i.ytimg.com/vi/1uZgUpjTg18/hqdefault.jpg)](https://www.youtube.com/watch?v=1uZgUpjTg18&list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD)
 
 > 💸🔀🚀 **Support me** ;)
 >
