@@ -3,7 +3,7 @@
 [👷 `@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [![⟂](https://raw.githubusercontent.com/solvespace/solvespace/master/res/freedesktop/solvespace-24x24.png) *SolveSpace*](https://solvespace.com) — FLOSS parametric 2D/3D CAD &amp; CAE.
 
 1. **Watch** SolveSpace 3.0 Showcase - Modeling a Technical Piece `[ ▶️ ]` [![DailySolveSpace, Video #1](https://i.ytimg.com/vi/1uZgUpjTg18/hqdefault.jpg)](https://www.youtube.com/watch?v=1uZgUpjTg18&list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD)
-2. **Subscribe** to my `DailySolveSpace` *playlist on YouTube* 🔔👍💬 https://www.youtube.com/playlist?list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD
+2. **Subscribe** to my [`DailySolveSpace` *playlist on YouTube*](https://www.youtube.com/playlist?list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD) 🔔👍💬
 3. **Support me** 💸🔀🚀
   > - *Became my Patron!* via *Patreon*: https://www.patreon.com/app4soft
   > - *Donate Bitcoin!* via *BTC*: `1LoE44kuRsS3cfjyCytnVjn5vGH9F3jyY7`
@@ -16,7 +16,7 @@ For use `.slvs` files from this repository *you should install latest 'nightly'*
   - [Nightly builds for macOS & Windows](https://github.com/solvespace/solvespace/releases/tag/edge) (official *DMG* & *EXE* builds on *GitHub*)
   - [Nightly builds for Linux](https://snapcraft.io/solvespace) (official *Snap* builds on *Snap Store*)
   - [Nightly builds for Linux](https://notesalexp.org) (unofficial [@AlexanderP](http://github.com/alexanderp)'s *PPA* for *Debian/Ubuntu*) `I'm using those builds!`
-  - [Check packaging status on Repology](https://repology.org/project/solvespace/versions) (list of packages already in various distributives' official package repositories)
+  - [Check packaging status on Repology](https://repology.org/project/solvespace/versions) (list of packages already available in various distributives' official repositories)
 
 ### SolveSpace Resources
 
