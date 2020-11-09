@@ -10,12 +10,13 @@
 
 ## SolveSpace 3.x (.slvs)
 
-For use `.slvs` files from this repository *you should install latest 'nightly'* version of *SolveSpace* `3.x`!
+For use `.slvs` files from this repository *you should install latest 'nightly'* version of *SolveSpace* `3.x`! (DO NOT USE those files using *SolveSpace* `2.x`!)
 
 - Build it yourself for Linux, Windows & macOS from [latest sources](https://github.com/solvespace/solvespace/tree/master) (official source code repo)
   - [Nightly builds for macOS & Windows](https://github.com/solvespace/solvespace/releases/tag/edge) (official *DMG* & *EXE* builds on *GitHub*)
   - [Nightly builds for Linux](https://snapcraft.io/solvespace) (official *Snap* builds on *Snap Store*)
-  - [Nightly builds for Linux](https://notesalexp.org) (unofficial [@AlexanderP](http://github.com/alexanderp)'s *PPA* for *Debian/Ubuntu*)
+  - [Nightly builds for Linux](https://notesalexp.org) (unofficial [@AlexanderP](http://github.com/alexanderp)'s *PPA* for *Debian/Ubuntu*) `I'm using those builds!`
+  - [Check packaging status on Repology](https://repology.org/project/solvespace/versions) (list of packages already in various distributives' official package repositories)
 
 ### SolveSpace Resources
 
