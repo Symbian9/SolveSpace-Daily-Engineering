@@ -50,6 +50,8 @@ For any *SolveSpace* related question & support:
 
 - [SolveSpace Forum](http://solvespace.com/forum.pl)
 - [SolveSpace Issues Tracker](https://github.com/solvespace/solvespace/issues)
+- [r/SolveSpace on Reddit](https://reddit.com/r/solvespace)
+- [*AMA about #SolveSpace on Twitter!*](https://twitter.com/intent/tweet?text=Hey%2C+%40app4soft%2C+I+have+a+question+about+%23SolveSpace%3A)
 
 ## Projects
 
