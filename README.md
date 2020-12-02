@@ -16,7 +16,9 @@
 
 ## SolveSpace 3.x (.slvs)
 
-For use `.slvs` files from this repository *you should install latest 'nightly'* version of *SolveSpace* `3.x`! (DO NOT USE those files using *SolveSpace* `2.x`!)
+For use `.slvs` files from this repository *you should install latest 'nightly'* version of *SolveSpace* `3.x`!
+
+> ⚠️ **ATTENTION!** DO NOT USE those files using *SolveSpace* `2.x`!
 
 - Build it yourself for Linux, Windows & macOS from [latest sources](https://github.com/solvespace/solvespace/tree/master) (official source code repo)
   - [Nightly builds for macOS & Windows](https://github.com/solvespace/solvespace/releases/tag/edge) (official *DMG* & *EXE* builds on *GitHub*)
