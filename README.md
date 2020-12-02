@@ -2,6 +2,9 @@
 
 [👷 `@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [![⟂](https://raw.githubusercontent.com/solvespace/solvespace/master/res/freedesktop/solvespace-24x24.png) *SolveSpace*](https://solvespace.com) — FLOSS parametric 2D/3D CAD &amp; CAE.
 
+> ⚠️ **ATTENTION!** DO NOT OPEN `*.slvs` files from this repo with an 'outdated' *SolveSpace* `2.x`!
+
+0. [Grab](https://github.com/Symbian9/SolveSpace-Daily-Engineering#solvespace-3x-slvs) & **Install** *SolveSpace* `3.x`!
 1. **Watch** SolveSpace 3.0 Showcases:
 
 | | 🍿😎👇 | DL |
@@ -17,8 +20,6 @@
 ## SolveSpace 3.x (.slvs)
 
 For use `.slvs` files from this repository *you should install latest 'nightly'* version of *SolveSpace* `3.x`!
-
-> ⚠️ **ATTENTION!** DO NOT USE those files using *SolveSpace* `2.x`!
 
 - Build it yourself for Linux, Windows & macOS from [latest sources](https://github.com/solvespace/solvespace/tree/master) (official source code repo)
   - [Nightly builds for macOS & Windows](https://github.com/solvespace/solvespace/releases/tag/edge) (official *DMG* & *EXE* builds on *GitHub*)
