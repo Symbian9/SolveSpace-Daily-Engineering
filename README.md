@@ -1,4 +1,4 @@
-# SolveSpace Daily Engineering [![`[follow on Twitter]`](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace%20OR%20%23dailysolvespace%20from%3Aapp4soft&f=live)
+# SolveSpace Daily Engineering [![`[follow on Twitter]`](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace%20OR%20%23dailysolvespace%20from%3Aapp4soft&f=live) [![[`follow on Reddit`]](https://img.shields.io/reddit/user-karma/combined/app4soft?style=social)](https://old.reddit.com/u/app4soft)
 
 [👷 `@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [![⟂](https://raw.githubusercontent.com/solvespace/solvespace/master/res/freedesktop/solvespace-24x24.png) *SolveSpace*](https://solvespace.com) — FLOSS parametric 2D/3D CAD &amp; CAE.
 
