@@ -1,10 +1,16 @@
-# SolveSpace Daily Engineering [![`[follow on Twitter]`](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace%20OR%20%23dailysolvespace%20from%3Aapp4soft&f=live) [![`[watch on YouTube]`](https://img.shields.io/youtube/views/1uZgUpjTg18?style=social&logo=youtube)](https://www.youtube.com/watch?v=1uZgUpjTg18&list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD)
+# SolveSpace Daily Engineering [![`[follow on Twitter]`](https://img.shields.io/twitter/follow/app4soft?style=social&logo=twitter)](https://twitter.com/search?q=solvespace%20OR%20%23dailysolvespace%20from%3Aapp4soft&f=live)
 
 [👷 `@app4soft`](https://twitter.com/app4soft)'s engineering experiments in [![⟂](https://raw.githubusercontent.com/solvespace/solvespace/master/res/freedesktop/solvespace-24x24.png) *SolveSpace*](https://solvespace.com) — FLOSS parametric 2D/3D CAD &amp; CAE.
 
-1. **Watch** SolveSpace 3.0 Showcase - Modeling a Technical Piece `[ ▶️ ]` [![DailySolveSpace, Video #1](https://i.ytimg.com/vi/1uZgUpjTg18/hqdefault.jpg)](https://www.youtube.com/watch?v=1uZgUpjTg18&list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD)
+1. **Watch** SolveSpace 3.0 Showcases:
+
+| | 🍿😎👇 | DL |
+| ---: | :----: | :---: |
+| Modeling a Technical Piece [![`[watch on YouTube]`](https://img.shields.io/youtube/views/1uZgUpjTg18?style=social&logo=youtube)](https://www.youtube.com/watch?v=1uZgUpjTg18&list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD) | [![DailySolveSpace, Video #1](https://i.ytimg.com/vi/1uZgUpjTg18/mqdefault.jpg)](https://www.youtube.com/watch?v=1uZgUpjTg18&list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD) | [`SLVS`](https://github.com/Symbian9/SolveSpace-Daily-Engineering/raw/master/cadtober/cadtober2020-day2.slvs) |
+| 30DayCADChallenge Intro [![`[watch on YouTube]`](https://img.shields.io/youtube/views/KY95-xrbSNo?style=social&logo=youtube)](https://www.youtube.com/watch?v=KY95-xrbSNo&list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD)| [![DailySolveSpace, Video #2](https://i.ytimg.com/vi/KY95-xrbSNo/mqdefault.jpg)](https://www.youtube.com/watch?v=KY95-xrbSNo&list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD) | [`SLVS`](https://github.com/Symbian9/SolveSpace-Daily-Engineering/raw/master/30DayCADChallenge/30daycadchallenge-intro.slvs) |
+  
 2. **Subscribe** to my [`DailySolveSpace` *playlist on YouTube*](https://www.youtube.com/playlist?list=PL53gPqUkbj3JndwS2T410KTbBymaimbiD) 🔔👍💬
-3. **Support** me 🤘😉👉 💸🔀🚀
+3. **Support** me 💸🔀🚀
   > - *Became my Patron!* via *Patreon*: https://www.patreon.com/app4soft
   > - *Donate Bitcoin!* via *BTC*: `1LoE44kuRsS3cfjyCytnVjn5vGH9F3jyY7`
 
